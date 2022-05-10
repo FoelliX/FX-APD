@@ -18,8 +18,6 @@ import org.w3c.dom.Node;
 import org.xml.sax.SAXException;
 
 public class APD {
-	// https://dl.google.com/android/repository/platform-31_r01.zip
-
 	private static final String DEFAULT_DOWNLOAD_REPOSITORY = "https://dl.google.com/android/repository/repository2-3.xml";
 
 	public static void main(String[] args) {
